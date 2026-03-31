@@ -27,14 +27,6 @@ streamlit-portfolio/
 └── README.md
 ```
 
-## ✅ Checklist
-
-- [ ] `assets/photo_julien.jpg` — Ta photo pro
-- [ ] `assets/cv_julien.pdf` — Ton CV PDF
-- [ ] `assets/cv_preview.png` — Screenshot de ton CV (pour l'aperçu)
-- [ ] Vérifier les liens GitHub de chaque projet dans `config.py`
-- [ ] Déployer sur share.streamlit.io
-
 ## 🎨 Design
 
 - **Palette** : Marine #1E3A5F · Cuivre #C47D4E · Crème #FAF7F2
